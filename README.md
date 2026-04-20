@@ -313,9 +313,10 @@ Venta registrada exitosamente.
 ```
 ##   Autores
 
-1.Yadian Serrano Martín 
-2.Juan Luis Ruiz Sosa 
-3.Adriana Reyes Camejo
-4.Ariel Alonso Calzada
-5.Yonathan Roque Izquierdo 
-Primer-TCP-Programaci-n
+Desarrollado como parte del primer examen parcial de la asignatura de Programación — Carrera: Ingeniería de Telecomunicaciones y Electrónica.
+
+1. Yadian Serrano Martín 
+2. Juan Luis Ruiz Sosa 
+3. Adriana Reyes Camejo
+4. Ariel Alonso Calzada
+5. Yonathan Roque Izquierdo
