@@ -26,7 +26,33 @@ Desarrollar un sistema que permita gestionar de forma eficiente:
 
 ### Diagrama de Clases
 
-```
+```Persona (abstract)
+├── Empleado
+│   ├── cargo (string)
+│   ├── salario (double)
+│   └── actualizarSalario()
+└── Cliente
+    ├── correo (string)
+    ├── historialCompras (vector<Venta>)
+    ├── agregarCompra()
+    ├── mostrarHistorial()
+    └── calcularTotalGastado()
+
+Producto
+├── id, nombre, categoria, precio, costo, stock
+├── actualizarStock()
+├── hayStockSuficiente()
+└── getMargen()
+
+Venta
+├── idVenta, idCliente, fecha, total
+├── productosVendidos (vector<ProductoVendido>)
+├── calcularTotal()
+└── printVenta()
+
+ProductoVendido (struct)
+├── idProducto
+└── cantidad
 
 ```
 
