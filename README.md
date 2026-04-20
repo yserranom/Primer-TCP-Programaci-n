@@ -154,7 +154,7 @@ $$Margen = Precio\ de\ Venta - Costo$$
 3.  Los cálculos deben implementarse dentro de las clases
 4.  Los filtros y estadísticas deben usar vectores
 
-## 🖥️ Menú Principal del Sistema
+##  Menú Principal del Sistema
 
 ```
 
@@ -179,7 +179,7 @@ Cada módulo (Productos, Clientes, Empleados, Ventas) incluye:
 -  Mostrar todos
 -  Estadísticas específicas
 
-## 🔧 Requerimientos Funcionales por Módulo
+##  Requerimientos Funcionales por Módulo
 
 ### Gestión de Productos
 
@@ -268,7 +268,7 @@ g++ main.cpp -o erp
 ./erp
 ```
 
-💡 Ejemplo de Uso
+ Ejemplo de Uso
 
 1. Agregar un Producto
 
