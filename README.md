@@ -4,8 +4,6 @@
 
 **Soluciones S.A.** es un emprendimiento familiar dedicado a la venta de productos tecnológicos y servicios. Debido a su crecimiento acelerado, los procesos administrativos actuales (registro manual en papel, control de inventario y análisis limitado) resultan ineficientes y propensos a errores.
 
-Ante esta problemática, se ha desarrollado un sistema tipo **Mini-ERP en consola** que permite automatizar la gestión empresarial, mejorar la organización de la información y facilitar la toma de decisiones mediante reportes y estadísticas.
-
 ##  Objetivo del Sistema
 
 Desarrollar un sistema que permita gestionar de forma eficiente:
