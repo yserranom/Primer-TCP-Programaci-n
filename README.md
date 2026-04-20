@@ -311,4 +311,11 @@ Cantidad: 1
 Agregar otro producto? (s/n): n
 Venta registrada exitosamente.
 ```
+##   Autores
+
+1.Yadian Serrano Martín 
+2.Juan Luis Ruiz Sosa 
+3.Adriana Reyes Camejo
+4.Ariel Alonso Calzada
+5.Yonathan Roque Izquierdo 
 Primer-TCP-Programaci-n
