@@ -1,19 +1,19 @@
 # Mini-ERP para MIPYME - Soluciones S.A.
 
-## 📋 Descripción del Proyecto
+##  Descripción del Proyecto
 
 **Soluciones S.A.** es un emprendimiento familiar dedicado a la venta de productos tecnológicos y servicios. Debido a su crecimiento acelerado, los procesos administrativos actuales (registro manual en papel, control de inventario y análisis limitado) resultan ineficientes y propensos a errores.
 
 Ante esta problemática, se ha desarrollado un sistema tipo **Mini-ERP en consola** que permite automatizar la gestión empresarial, mejorar la organización de la información y facilitar la toma de decisiones mediante reportes y estadísticas.
 
-## 🎯 Objetivo del Sistema
+##  Objetivo del Sistema
 
 Desarrollar un sistema que permita gestionar de forma eficiente:
 
-- ✅ **Productos** - Control de inventario y stock
-- ✅ **Clientes** - Gestión de datos e historial de compras
-- ✅ **Empleados** - Administración de personal y salarios
-- ✅ **Ventas** - Registro de transacciones y actualización automática de stock
+-  **Productos** - Control de inventario y stock
+-  **Clientes** - Gestión de datos e historial de compras
+-  **Empleados** - Administración de personal y salarios
+-  **Ventas** - Registro de transacciones y actualización automática de stock
 
 ### Garantías del Sistema
 
@@ -22,7 +22,7 @@ Desarrollar un sistema que permita gestionar de forma eficiente:
 - Facilidad de uso mediante menús interactivos
 - Generación de estadísticas y reportes
 
-## 🏗️ Diseño Orientado a Objetos
+##  Diseño Orientado a Objetos
 
 ### Diagrama de Clases
 
@@ -90,7 +90,7 @@ Desarrollar un sistema que permita gestionar de forma eficiente:
 - `calcularTotal()`
 - `mostrarResumenVenta()`
 
-## 📊 Fórmulas y Cálculos Implementados
+##  Fórmulas y Cálculos Implementados
 
 ### Costo Total del Inventario
 
@@ -108,7 +108,7 @@ $$Promedio_{cat} = \frac{\sum precio_i}{\text{cantidad de productos en la catego
 
 $$Margen = Precio\ de\ Venta - Costo$$
 
-## 🗂️ Estructuras de Datos Utilizadas
+##  Estructuras de Datos Utilizadas
 
 ### Vectores
 - Lista de productos (`vector<Producto>`)
@@ -121,12 +121,12 @@ $$Margen = Precio\ de\ Venta - Costo$$
 - Asociar ventas por cliente: `map<string, vector<Venta>>`
 - Controlar stock por producto: `map<int, int>`
 
-## 📜 Reglas de Negocio
+##  Reglas de Negocio
 
-1. ❌ **No se puede vender un producto sin stock suficiente**
-2. ❌ **No se puede eliminar un cliente con compras registradas**
-3. ✅ Los cálculos deben implementarse dentro de las clases
-4. ✅ Los filtros y estadísticas deben usar vectores
+1.  **No se puede vender un producto sin stock suficiente**
+2.  **No se puede eliminar un cliente con compras registradas**
+3.  Los cálculos deben implementarse dentro de las clases
+4.  Los filtros y estadísticas deben usar vectores
 
 ## 🖥️ Menú Principal del Sistema
 
@@ -146,12 +146,12 @@ $$Margen = Precio\ de\ Venta - Costo$$
 
 Cada módulo (Productos, Clientes, Empleados, Ventas) incluye:
 
-- ➕ Crear (Agregar)
-- ✏️ Modificar (según módulo)
-- 🗑️ Eliminar
-- 🔍 Consultar
-- 📊 Mostrar todos
-- 📈 Estadísticas específicas
+-  Crear (Agregar)
+-  Modificar (según módulo)
+-  Eliminar
+-  Consultar
+-  Mostrar todos
+-  Estadísticas específicas
 
 ## 🔧 Requerimientos Funcionales por Módulo
 
@@ -191,7 +191,7 @@ Cada módulo (Productos, Clientes, Empleados, Ventas) incluye:
 - [x] Mostrar todas las ventas
 - [x] Resumen por venta
 
-## 📁 Estructura de Archivos del Proyecto
+##  Estructura de Archivos del Proyecto
 
 ```
 
@@ -206,7 +206,7 @@ mini-erp/
 
 ```
 
-## 🚀 Cómo Compilar y Ejecutar
+##  Cómo Compilar y Ejecutar
 
 ### Requisitos Previos
 
@@ -267,8 +267,8 @@ Opción: 1
 Nombre: Juan
 Apellido: Pérez
 ID: C001
-Teléfono: 555-1234
-Correo: juan@email.com
+Teléfono: 56783796
+Correo: juan@gmail.com
 Cliente agregado.
 ```
 
